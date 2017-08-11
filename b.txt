@@ -1,1 +1,1 @@
-Hi there in b.txt
+Hi there in b.txt - these changes made by user1
